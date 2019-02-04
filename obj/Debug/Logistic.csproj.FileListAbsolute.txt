@@ -1,0 +1,15 @@
+C:\Users\TRATATATA\Desktop\Portfolio\C#\Logistic\Logistic\Logistic\bin\Debug\Logistic.exe.config
+C:\Users\TRATATATA\Desktop\Portfolio\C#\Logistic\Logistic\Logistic\bin\Debug\Logistic.exe
+C:\Users\TRATATATA\Desktop\Portfolio\C#\Logistic\Logistic\Logistic\bin\Debug\Logistic.pdb
+C:\Users\TRATATATA\Desktop\Portfolio\C#\Logistic\Logistic\Logistic\obj\Debug\Logistic.csprojAssemblyReference.cache
+C:\Users\TRATATATA\Desktop\Portfolio\C#\Logistic\Logistic\Logistic\obj\Debug\MainWindow.g.cs
+C:\Users\TRATATATA\Desktop\Portfolio\C#\Logistic\Logistic\Logistic\obj\Debug\App.g.cs
+C:\Users\TRATATATA\Desktop\Portfolio\C#\Logistic\Logistic\Logistic\obj\Debug\Logistic_MarkupCompile.cache
+C:\Users\TRATATATA\Desktop\Portfolio\C#\Logistic\Logistic\Logistic\obj\Debug\Logistic_MarkupCompile.lref
+C:\Users\TRATATATA\Desktop\Portfolio\C#\Logistic\Logistic\Logistic\obj\Debug\MainWindow.baml
+C:\Users\TRATATATA\Desktop\Portfolio\C#\Logistic\Logistic\Logistic\obj\Debug\Logistic.g.resources
+C:\Users\TRATATATA\Desktop\Portfolio\C#\Logistic\Logistic\Logistic\obj\Debug\Logistic.Properties.Resources.resources
+C:\Users\TRATATATA\Desktop\Portfolio\C#\Logistic\Logistic\Logistic\obj\Debug\Logistic.csproj.GenerateResource.cache
+C:\Users\TRATATATA\Desktop\Portfolio\C#\Logistic\Logistic\Logistic\obj\Debug\Logistic.csproj.CoreCompileInputs.cache
+C:\Users\TRATATATA\Desktop\Portfolio\C#\Logistic\Logistic\Logistic\obj\Debug\Logistic.exe
+C:\Users\TRATATATA\Desktop\Portfolio\C#\Logistic\Logistic\Logistic\obj\Debug\Logistic.pdb
